@@ -1,13 +1,16 @@
-<h1 align="center">Hi 👋, I'm Gabriel Caruzo</h1>
+<h1 align="center">Hi, I'm Gabriel Caruzo</h1>
 <h3 align="center">I’m a Data Science student at IBMEC in Brazil.</h3>
 
-- 🔭 I’m currently on a internship as a **data analyst**
+- I’m currently on a internship as a **data analyst.**
 
-- 🌱 I’m currently using **Python, Power BI, Excel, SQL and Azure**
+- I’m currently using **Python, Power BI, Excel, SQL and Azure.**
 
-- 📫 How to reach me **gabriel_caruzo@hotmail.com**
+- I’m currently working with **data modeling, automation, data analysis, data extraction, and data visualization.**
+
+- How to reach me **gabriel_caruzo@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
+**https://www.linkedin.com/in/gabrielcaruzo/**
 <p align="left">
 </p>
 
