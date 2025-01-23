@@ -10,7 +10,7 @@
 - How to reach me **gabriel_caruzo@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
-**https://www.linkedin.com/in/gabrielcaruzo/**
+https://www.linkedin.com/in/gabrielcaruzo/
 <p align="left">
 </p>
 
